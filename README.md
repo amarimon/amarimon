@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="amarimon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amarimon&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarimon&layout=compact)](https://github.com/amarimon/github-readme-stats)
